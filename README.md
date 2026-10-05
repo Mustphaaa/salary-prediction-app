@@ -42,7 +42,7 @@ ML_Project/
 git clone <your-repo-url>
 cd ML_Project
 python -m venv venv
-venv\Scripts\activate          # Windows  (Mac/Linux: source venv/bin/activate)
+venv\Scripts\activate    
 pip install -r requirements.txt
 streamlit run app.py
 ```
