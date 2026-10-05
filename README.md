@@ -2,8 +2,7 @@
 
 An end-to-end machine learning project: a Linear Regression model that predicts salary from years of experience, served through an interactive Streamlit web app.
 
-**Live app:** _add your Streamlit Community Cloud URL here_
-
+**Live app:** https://salary-prediction-app-lndqtfhvsasndet3zon2wm.streamlit.app/
 ## Project description
 The model learns the relationship between years of experience and salary. The Streamlit app loads the saved model (`model/model.pkl`), takes a user's years of experience, and displays the predicted salary along with a chart, dataset information, model metrics, and prediction history.
 
